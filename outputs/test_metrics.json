@@ -1,0 +1,52 @@
+{
+  "n_train": 4126,
+  "n_test": 1032,
+  "n_test_spam": 128,
+  "best_cv_features": "char",
+  "best_cv_model": "LinearSVM",
+  "best_params": {
+    "model__C": 1.0
+  },
+  "threshold": 0.21747156495887832,
+  "review_low": 0.024198749056108082,
+  "target_precision": 0.98,
+  "test_baseline_original_style": {
+    "precision": 0.9090909090909091,
+    "recall": 0.78125,
+    "f1": 0.8403361344537815
+  },
+  "test_improved_threshold_0.5": {
+    "precision": 0.9836065573770492,
+    "recall": 0.9375,
+    "f1": 0.96
+  },
+  "test_improved_tuned_threshold": {
+    "precision": 0.9761904761904762,
+    "recall": 0.9609375,
+    "f1": 0.968503937007874
+  },
+  "test_ci95": {
+    "precision": [
+      0.9453125,
+      1.0
+    ],
+    "recall": [
+      0.9259121061359867,
+      0.991869918699187
+    ],
+    "f1": [
+      0.9449465113917194,
+      0.9880478087649402
+    ]
+  },
+  "obfuscation_robustness": {
+    "clean_recall_plain": 0.96875,
+    "clean_recall_augmented": 0.9609375,
+    "obfuscated_recall_plain": 0.9375,
+    "obfuscated_recall_augmented": 0.984375
+  },
+  "test_average_precision": 0.982607894607342,
+  "review_rate": 0.05426356589147287,
+  "auto_decision_accuracy": 0.9948770491803278,
+  "sklearn_version": "1.8.0"
+}

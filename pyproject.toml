@@ -1,0 +1,13 @@
+[tool.ruff]
+line-length = 140
+extend-exclude = ["notebooks"]
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E702", "E701", "E741", "E402"]   # compact plt one-liners; matplotlib.use() before pyplot
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = ["ignore::DeprecationWarning"]

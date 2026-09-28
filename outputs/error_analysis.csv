@@ -1,0 +1,62 @@
+message,true,spam_prob,outcome
+"Do you ever notice that when you're driving, anyone going slower than you is an idiot and everyone driving faster than you is a maniac?",1,0.0002,false_negative
+"Latest News! Police station toilet stolen, cops have nothing to go on!",1,0.082,false_negative
+"Oh my god! I've found your number again! I'm so glad, text me back xafter this msgs cst std ntwk chg £1.50",1,0.1307,false_negative
+"Will u meet ur dream partner soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign, e. g. HORO ARIES",1,0.0249,false_negative
+"Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?",1,0.0017,false_negative
+Check wid corect speling i.e. Sarcasm,0,0.2929,false_positive
+"We have sent JD for Customer Service cum Accounts Executive to ur mail id, For details contact us",0,0.6679,false_positive
+"Hi, Mobile no. <#> has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com",0,0.8436,false_positive
+"Please protect yourself from e-threats. SIB never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",0,0.111,needs_review
+Pls dont restrict her from eating anythin she likes for the next two days.,0,0.0563,needs_review
+ARE YOU IN TOWN? THIS IS V. IMPORTANT,0,0.0328,needs_review
+If india win or level series means this is record:),0,0.04,needs_review
+My tuition is at 330. Hm we go for the 1120 to 1205 one? Do you mind?,0,0.1702,needs_review
+HI ITS KATE CAN U GIVE ME A RING ASAP XXX,0,0.0299,needs_review
+Customer place i will call you,0,0.0345,needs_review
+staff.science.nus.edu.sg/~phyhcmk/teaching/pc1323,0,0.0992,needs_review
+They r giving a second chance to rahul dengra.,0,0.0437,needs_review
+"Sorry, I can't text & drive coherently, see you in twenty",0,0.0268,needs_review
+As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,0,0.0923,needs_review
+"Mostly sports type..lyk footbl,crckt..",0,0.0317,needs_review
+CHEERS FOR CALLIN BABE.SOZI CULDNT TALKBUT I WANNATELL U DETAILS LATER WENWECAN CHAT PROPERLY X,0,0.1229,needs_review
+"Urgh, coach hot, smells of chip fat! Thanks again, especially for the duvet (not a predictive text word).",0,0.1063,needs_review
+This message is from a great Doctor in India:-): 1) Do not drink APPY FIZZ. It contains Cancer causing age,0,0.0466,needs_review
+It's é only $140 ard...É rest all ard $180 at least...Which is é price 4 é 2 bedrm ($900),0,0.1529,needs_review
+I dont know why she.s not getting your messages,0,0.0259,needs_review
+"How long before you get reply, just defer admission til next semester",0,0.0409,needs_review
+Well. You know what i mean. Texting,0,0.0367,needs_review
+"G says you never answer your texts, confirm/deny",0,0.0832,needs_review
+"My mobile number.pls sms ur mail id.convey regards to achan,amma.Rakhesh.Qatar",0,0.0683,needs_review
+Am on a train back from northampton so i'm afraid not! I'm staying skyving off today ho ho! Will be around wednesday though. Do you fancy the comedy club this week by the way?,0,0.0256,needs_review
+This is ur face test ( 1 2 3 4 5 6 7 8 9 <#> ) select any number i will tell ur face astrology.... am waiting. quick reply...,0,0.0923,needs_review
+GRAN ONLYFOUND OUT AFEW DAYS AGO.CUSOON HONI,0,0.0284,needs_review
+Is toshiba portege m100 gd?,0,0.0796,needs_review
+Tiwary to rcb.battle between bang and kochi.,0,0.0507,needs_review
+* Am on a train back from northampton so i'm afraid not!,0,0.077,needs_review
+Ummma.will call after check in.our life will begin from qatar so pls pray very hard.,0,0.0284,needs_review
+Text her. If she doesnt reply let me know so i can have her log in,0,0.0266,needs_review
+Finally the match heading towards draw as your prediction.,0,0.0284,needs_review
+Customer place i will call you.,0,0.0257,needs_review
+Does she usually take fifteen fucking minutes to respond to a yes or no question,0,0.0265,needs_review
+Check with nuerologist.,0,0.0531,needs_review
+TaKe CaRE n gET WeLL sOOn,0,0.0414,needs_review
+K..u also dont msg or reply to his msg..,0,0.2122,needs_review
+AH POOR BABY!HOPE URFEELING BETTERSN LUV! PROBTHAT OVERDOSE OF WORK HEY GO CAREFUL SPK 2 U SN LOTS OF LOVEJEN XXX.,0,0.0278,needs_review
+SERIOUSLY. TELL HER THOSE EXACT WORDS RIGHT NOW.,0,0.0395,needs_review
+Host-based IDPS for linux systems.,0,0.028,needs_review
+HI DARLIN I HOPE YOU HAD A NICE NIGHT I WISH I HAD COME CANT WAIT TO SEE YOU LOVE FRAN PS I WANT DIRTY ANAL SEX AND I WANT A 10 MAN GANG BANG,0,0.0355,needs_review
+"Hi Jon, Pete here, Ive bin 2 Spain recently & hav sum dinero left, Bill said u or ur rents mayb interested in it, I hav 12,000pes, so around £48, tb, James.",0,0.0308,needs_review
+Lol grr my mom is taking forever with my prescription. Pharmacy is like 2 minutes away. Ugh.,0,0.0288,needs_review
+Fffff. Can you text kadeem or are you too far gone,0,0.0958,needs_review
+"Honeybee Said: *I'm d Sweetest in d World* God Laughed & Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)",0,0.0467,needs_review
+From tomorrow onwards eve 6 to 3 work.,0,0.0532,needs_review
+V nice! Off 2 sheffield tom 2 air my opinions on categories 2 b used 2 measure ethnicity in next census. Busy transcribing. :-),0,0.0504,needs_review
+"wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine ""KUDI""yarasu dhina vaazhthukkal. ..",0,0.0261,needs_review
+"Solve d Case : A Man Was Found Murdered On <DECIMAL> . <#> AfterNoon. 1,His wife called Police. 2,Police questioned everyone. 3,Wife: Sir,I was sleeping, when the murder took place. 4.Cook: I was cooking. 5.Gardener: I was picking vegetables. 6.House-Maid: I went 2 d post office. 7.Children: We went 2 play. 8.Neighbour: We went 2 a marriage. Police arrested d murderer Immediately. Who's It? Reply With Reason, If U r Brilliant.",0,0.0468,needs_review
+How was txting and driving,0,0.0308,needs_review
+"She is our sister.. She belongs 2 our family.. She is d hope of tomorrow.. Pray 4 her,who was fated 4 d Shoranur train incident. Lets hold our hands together & fuelled by love & concern prior 2 her grief & pain. Pls join in dis chain & pass it. STOP VIOLENCE AGAINST WOMEN.",0,0.0297,needs_review
+Ultimately tor motive tui achieve korli.,0,0.0263,needs_review
+HELLO U.CALL WEN U FINISH WRK.I FANCY MEETIN UP WIV U ALL TONITE AS I NEED A BREAK FROM DABOOKS. DID 4 HRS LAST NITE+2 TODAY OF WRK!,0,0.037,needs_review
+Hi this is yijue... It's regarding the 3230 textbook it's intro to algorithms second edition... I'm selling it for $50...,0,0.0717,needs_review
+You are a big chic. Common. Declare,0,0.0388,needs_review
