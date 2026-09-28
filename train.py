@@ -101,7 +101,7 @@ def main():
     # ---- 2. Tune C on train only ----------------------------------------------------------------
     grid = GridSearchCV(build_pipeline(best.features, best.model), {"model__C": C_GRID}
                         if best.model != "ComplementNB" else {"model__alpha": [0.03, 0.1, 0.3, 1.0]},
-                        scoring="f1", cv=StratifiedGroupKFold(5, shuffle=True, random_state=SEED).split(X_tr, y_tr, g_tr), n_jobs=-1)
+                        scoring="f1", cv=list(StratifiedGroupKFold(5, shuffle=True, random_state=SEED).split(X_tr, y_tr, g_tr)), n_jobs=-1)
     grid.fit(X_tr, y_tr)
     print("Tuned params:", grid.best_params_, f"(CV F1={grid.best_score_:.4f})")
     tuned = grid.best_estimator_
